@@ -18,3 +18,4 @@ How to detect copy paste commands Ctrl+V, Ctrl+C using JavaScript ?: https://www
 Intuition behind Adagrad Optimizer: https://www.geeksforgeeks.org/intuition-behind-adagrad-optimizer/ <br>
 Fine Tuning XGBoost model: https://towardsdatascience.com/fine-tuning-xgboost-model-257868cf4187 <br>
 A Brief Introduction to XGBoost: https://towardsdatascience.com/a-brief-introduction-to-xgboost-3eaee2e3e5d6 <br>
+Machine Learning Engineer: https://www.google.com/amp/s/www.interviewbit.com/blog/machine-learning-engineer/
