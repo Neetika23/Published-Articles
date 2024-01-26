@@ -1,6 +1,7 @@
-# Published-Articles
+# Sample Published-Articles
 Features of C++17 with Examples: https://www.google.com/amp/s/www.geeksforgeeks.org/features-of-c17-with-examples/amp/ <br>
 Image Processing in Python: Algorithms, Tools, and Methods You Should Know: https://neptune.ai/blog/image-processing-in-python-algorithms-tools-and-methods-you-should-know <br>
+Depth First Search: https://www.shiksha.com/online-courses/articles/depth-first-search-algorithm/ <br>
 Best Data Science Tools to Increase Machine Learning Model Understanding: https://neptune.ai/blog/best-data-science-tools-to-increase-machine-learning-model-understanding <br>
 Printing structure variables in console in Golang: https://www.geeksforgeeks.org/printing-structure-variables-in-console-in-golang/ <br>
 How to add a method to struct type in Golang?: https://www.geeksforgeeks.org/how-to-add-a-method-to-struct-type-in-golang/ <br>
